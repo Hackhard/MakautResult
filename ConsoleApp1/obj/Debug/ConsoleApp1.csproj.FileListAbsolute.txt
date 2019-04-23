@@ -1,0 +1,17 @@
+C:\Users\Hackhard\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Hackhard\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Hackhard\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\nunit.engine.dll
+C:\Users\Hackhard\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\nunit.engine.api.dll
+C:\Users\Hackhard\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Hackhard\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\nunit.framework.dll
+C:\Users\Hackhard\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\WebDriver.dll
+C:\Users\Hackhard\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\nunit.framework.pdb
+C:\Users\Hackhard\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\nunit.framework.xml
+C:\Users\Hackhard\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\WebDriver.xml
+C:\Users\Hackhard\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Hackhard\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Hackhard\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\Hackhard\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Hackhard\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.dll.config
+C:\Users\Hackhard\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.dll
+C:\Users\Hackhard\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.dll
